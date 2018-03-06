@@ -17,10 +17,10 @@ return [
         ],
 
         'db' => [
-            'host' => 'localhost',
-            'dbname' => 'ecran_php',
-            'user' => 'root',
-            'pass' => ''
+            'host' => 'blugcj2oq-mysql.services.clever-cloud.com:3306',
+            'dbname' => 'blugcj2oq',
+            'user' => 'u5jugyyqcysh8kjo',
+            'pass' => 'z01CioDzlMf8gYjHnEo'
         ]
     ],
 ];
