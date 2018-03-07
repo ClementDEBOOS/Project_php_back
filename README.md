@@ -1,3 +1,12 @@
 Project_php_back
 
-See src/routes.php to all routes to call
+To see the routes for the API :
+See src/components/actus.php  -> GET/POST/PUT/DELETE for Actualites
+
+See src/components/evenements.php -> GET/POST/PUT/DELETE for Evenements
+
+Setting up the database :
+See src/components/settings.php
+
+Setting the CROS Origin :
+See src/components/middleware.php
