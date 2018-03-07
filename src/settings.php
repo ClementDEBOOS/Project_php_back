@@ -16,6 +16,7 @@ return [
             'level' => \Monolog\Logger::DEBUG,
         ],
 
+        // Database settings
         'db' => [
             'host' => 'blugcj2oq-mysql.services.clever-cloud.com:3306',
             'dbname' => 'blugcj2oq',
