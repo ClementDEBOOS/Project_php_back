@@ -26,6 +26,7 @@ require __DIR__ . '/../src/middleware.php';
 // Register routes
 require __DIR__ . '/../src/components/actus.php';
 require __DIR__ . '/../src/components/evenements.php';
+require __DIR__ . '/../src/components/plannings.php';
 
 // Run app
 $app->run();

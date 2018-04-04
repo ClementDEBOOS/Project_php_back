@@ -18,10 +18,10 @@ return [
 
         // Database settings
         'db' => [
-            'host' => 'blugcj2oq-mysql.services.clever-cloud.com:3306', // HOTE DE LA BASE
-            'dbname' => 'blugcj2oq', // NOM DE LA BASE
-            'user' => 'u5jugyyqcysh8kjo', // UTILISATEUR
-            'pass' => 'z01CioDzlMf8gYjHnEo' // MOT DE PASSE
+            'host' => '127.0.0.1', // HOTE DE LA BASE
+            'dbname' => 'ecran_php', // NOM DE LA BASE
+            'user' => 'root', // UTILISATEUR
+            'pass' => '' // MOT DE PASSE
         ]
     ],
 ];
